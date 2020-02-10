@@ -17,8 +17,7 @@ import TimeTable from "./containers/TimeTable/TimeTable";
 
 function App() {
   return (
-    <div>
-      <button></button>
+
       <Switch>
         <Route path="/home" component={HomePage} />
         <Route path="/brazil-jiu-jitsu" component={BrazilJiuJitsu} />
@@ -30,7 +29,7 @@ function App() {
         <Route path="/individual-trainings" component={IndividualTrainings} />
         <Route path="/time-table" component={TimeTable} />
       </Switch>
-    </div>
+
   );
 }
 export default App;
