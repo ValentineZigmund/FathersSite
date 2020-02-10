@@ -19,7 +19,7 @@ function App() {
   return (
     <div>
       <Switch>
-        <Route path="/homepage" component={HomePage} />
+        <Route path="/home" component={HomePage} />
         <Route path="/brazil-jiu-jitsu" component={BrazilJiuJitsu} />
         <Route path="/boxing" component={Boxing} />
         <Route path="/mma" component={Mma} />
