@@ -2,7 +2,7 @@
   "name": "fathers-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ValentineZigmund.github.io/homepage/",
+  "homepage": "https://ValentineZigmund.github.io/FathersSite/",
   "dependencies": {
     "@material-ui/core": "^4.9.1",
     "@material-ui/icons": "^4.9.1",
