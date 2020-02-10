@@ -8,7 +8,7 @@ import { BrowserRouter } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 
 const app = (
-  <BrowserRouter basename="/homepage">
+  <BrowserRouter basename="/home">
     <ScrollToTop />
     <App />
   </BrowserRouter>
