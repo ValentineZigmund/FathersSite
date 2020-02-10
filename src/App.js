@@ -15,6 +15,11 @@ import HallRental from "./containers/HallRental/HallRental";
 import IndividualTrainings from "./containers/IndividualTrainings/IndividualTrainings";
 import TimeTable from "./containers/TimeTable/TimeTable";
 
+import Header from "./components/header/Header";
+import Main from "./components/main/Main";
+import Footer from "./components/footer/Footer";
+import "bootstrap/dist/css/bootstrap.min.css";
+
 function App() {
   return (
     <div>
@@ -29,6 +34,9 @@ function App() {
         <Route path="/individual-trainings" component={IndividualTrainings} />
         <Route path="/time-table" component={TimeTable} />
       </Switch>
+      <Header />
+      <Main />
+      <Footer />
     </div>
   );
 }
