@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4eef6cb7de86a7e256e8157b6e2f7cb4",
+    "revision": "369d347fb98d8d6b3cde732888ae7761",
     "url": "/FathersSite/index.html"
   },
   {
-    "revision": "af4c2879c7c4442dde2c",
-    "url": "/FathersSite/static/css/2.01194d94.chunk.css"
+    "revision": "d13bae9e4710aab94edd",
+    "url": "/FathersSite/static/css/2.d7ac162c.chunk.css"
   },
   {
-    "revision": "7e4ce723f2765e7e1c29",
-    "url": "/FathersSite/static/css/main.a598d861.chunk.css"
+    "revision": "06cbf556c75fca2d1e64",
+    "url": "/FathersSite/static/css/main.2e9ddc3d.chunk.css"
   },
   {
-    "revision": "af4c2879c7c4442dde2c",
-    "url": "/FathersSite/static/js/2.07a6a414.chunk.js"
+    "revision": "d13bae9e4710aab94edd",
+    "url": "/FathersSite/static/js/2.907f1b82.chunk.js"
   },
   {
-    "revision": "e6edf5f5109ad7460f75a9f5716d868f",
-    "url": "/FathersSite/static/js/2.07a6a414.chunk.js.LICENSE"
+    "revision": "c89a9bd9034eeb7490cd574fde290b7e",
+    "url": "/FathersSite/static/js/2.907f1b82.chunk.js.LICENSE"
   },
   {
-    "revision": "7e4ce723f2765e7e1c29",
-    "url": "/FathersSite/static/js/main.011b1677.chunk.js"
+    "revision": "06cbf556c75fca2d1e64",
+    "url": "/FathersSite/static/js/main.b14d629b.chunk.js"
   },
   {
-    "revision": "c8b0cb1a60aecab0b6a0",
-    "url": "/FathersSite/static/js/runtime-main.650db936.js"
+    "revision": "c7b977d75ba69669dfa7",
+    "url": "/FathersSite/static/js/runtime-main.76cbbc50.js"
   },
   {
     "revision": "14226958a872123ebbcd32ecbfc74e27",
@@ -52,16 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FathersSite/static/media/VasilyPeskov.d2b5b70f.jpg"
   },
   {
+    "revision": "58bdc65f4ff28f895e176ff945cdf91f",
+    "url": "/FathersSite/static/media/bely.58bdc65f.png"
+  },
+  {
     "revision": "b21d8235eefbd6d1c4b5cff09cb8cae2",
     "url": "/FathersSite/static/media/boxing.b21d8235.jpg"
-  },
-  {
-    "revision": "02284192bd07ace0850aa199f1c2c8aa",
-    "url": "/FathersSite/static/media/fathers-mobile.02284192.jpg"
-  },
-  {
-    "revision": "7627192aa5640e1551d318ea854d5b40",
-    "url": "/FathersSite/static/media/fathers.7627192a.jpg"
   },
   {
     "revision": "27f8045680abfab5fcddf33dbfabe0c1",
