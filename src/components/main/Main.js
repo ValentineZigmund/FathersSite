@@ -4,15 +4,15 @@ import Faq from "./Main__faq/Faq";
 import MainNavButtons from "./MainNavButtons/MainNavButtons";
 import MainTimeTable from "./MainTimeTable/TimeTable";
 import MainTrainers from "./MainTrainers/MainTrainers";
+import bely from "./bely.png";
 
 export default function Main() {
   return (
     <div>
-      <div className="logo">
-        <div className="logo__background"></div>
-      </div>
       <div className="top-section">
-        <h1 className="club">Fightpro</h1>
+        <img src={bely} className="logo"></img>
+        <div className='top-section__text'>
+        <h1 className="club">Fathers</h1>
         <span>
           <b>
             это филиал легендарного клуба единоборств в Екатеринбурге, который
@@ -21,14 +21,15 @@ export default function Main() {
             мы стремимся развивать и популяризировать следующие виды спортивной
             борьбы:
             <ul>
-              <li>бокс;</li>
-              <li>грэпплинг;</li>
-              <li>муай-тай;</li>
-              <li>самбо;</li>
-              <li>ММА (mixed martial arts) – смешанные боевые искусства.</li>
-            </ul>
-            В рамках клуба действует также отдельное направление – стретчинг.</span>
-            <span className="top-section__extra-info">
+              <li>Бокс</li>
+              <li>Грэпплинг</li>
+              <li>Муай-тай</li>
+              <li>Самбо</li>
+              <li>ММА (mixed martial arts) – смешанные боевые искусства</li>
+            </ul></span>
+            {/* <span className="top-section__extra-info">
+            В рамках клуба действует также отдельное направление – стретчинг.
+            
               Наш зал спортивных единоборств в Екатеринбурге готов принять
               каждого, кто хочет регулярно посещать тренировки и при этом
               серьезно относится к избранному им виду спорта. Занятия на наших
@@ -55,9 +56,10 @@ export default function Main() {
               подготовки и пола посетителя нашего клуба. Мы предлагаем также
               особое преимущество в записи на индивидуальные занятия с
               персональным тренером.
-            </span>
+            </span> */}
           </b>
         </span>
+        </div>
       </div>
       <Slider />
       <MainNavButtons />

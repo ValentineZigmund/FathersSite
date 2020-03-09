@@ -1,0 +1,11 @@
+.transition-on-hover:hover {
+    transform: scale(1.2) !important;
+    transition: 0.8s !important;
+    -webkit-filter: brightness(40%) !important;
+    overflow: hidden !important;
+} 
+.overflow-on-hover:hover {
+    transition: 0.8s !important;
+    -webkit-filter: brightness(40%) !important;
+    overflow: hidden !important;
+}

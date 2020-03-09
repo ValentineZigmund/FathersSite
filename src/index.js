@@ -4,14 +4,17 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import 'typeface-roboto';
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
+// import { BrowserRouter } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 
 const app = (
-  <BrowserRouter basename="/FathersSite">
+  // <BrowserRouter>
+  <HashRouter basename="/FathersSite">
     <ScrollToTop />
     <App />
-  </BrowserRouter>
+  </HashRouter>
+  // {/* </BrowserRouter> */}
 );
 
 ReactDOM.render(app, document.getElementById("root"));
