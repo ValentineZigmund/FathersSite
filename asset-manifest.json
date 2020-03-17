@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/FathersSite/static/css/main.2e9ddc3d.chunk.css",
-    "main.js": "/FathersSite/static/js/main.b14d629b.chunk.js",
-    "main.js.map": "/FathersSite/static/js/main.b14d629b.chunk.js.map",
+    "main.css": "/FathersSite/static/css/main.4345ca67.chunk.css",
+    "main.js": "/FathersSite/static/js/main.5397d317.chunk.js",
+    "main.js.map": "/FathersSite/static/js/main.5397d317.chunk.js.map",
     "runtime-main.js": "/FathersSite/static/js/runtime-main.76cbbc50.js",
     "runtime-main.js.map": "/FathersSite/static/js/runtime-main.76cbbc50.js.map",
     "static/css/2.d7ac162c.chunk.css": "/FathersSite/static/css/2.d7ac162c.chunk.css",
-    "static/js/2.907f1b82.chunk.js": "/FathersSite/static/js/2.907f1b82.chunk.js",
-    "static/js/2.907f1b82.chunk.js.map": "/FathersSite/static/js/2.907f1b82.chunk.js.map",
+    "static/js/2.df99fc4b.chunk.js": "/FathersSite/static/js/2.df99fc4b.chunk.js",
+    "static/js/2.df99fc4b.chunk.js.map": "/FathersSite/static/js/2.df99fc4b.chunk.js.map",
     "index.html": "/FathersSite/index.html",
-    "precache-manifest.95c35d61dd083341a0926687ea442138.js": "/FathersSite/precache-manifest.95c35d61dd083341a0926687ea442138.js",
+    "precache-manifest.a026c8a14b86268bd559b9e7bd1ce4e4.js": "/FathersSite/precache-manifest.a026c8a14b86268bd559b9e7bd1ce4e4.js",
     "service-worker.js": "/FathersSite/service-worker.js",
     "static/css/2.d7ac162c.chunk.css.map": "/FathersSite/static/css/2.d7ac162c.chunk.css.map",
-    "static/css/main.2e9ddc3d.chunk.css.map": "/FathersSite/static/css/main.2e9ddc3d.chunk.css.map",
-    "static/js/2.907f1b82.chunk.js.LICENSE": "/FathersSite/static/js/2.907f1b82.chunk.js.LICENSE",
+    "static/css/main.4345ca67.chunk.css.map": "/FathersSite/static/css/main.4345ca67.chunk.css.map",
+    "static/js/2.df99fc4b.chunk.js.LICENSE": "/FathersSite/static/js/2.df99fc4b.chunk.js.LICENSE",
     "static/media/AleksChernov.jpg": "/FathersSite/static/media/AleksChernov.14226958.jpg",
     "static/media/DmitriySolovyev.jpg": "/FathersSite/static/media/DmitriySolovyev.6f1f88d7.jpg",
     "static/media/MikhailIvaniv.jpg": "/FathersSite/static/media/MikhailIvaniv.d996e1ae.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.76cbbc50.js",
     "static/css/2.d7ac162c.chunk.css",
-    "static/js/2.907f1b82.chunk.js",
-    "static/css/main.2e9ddc3d.chunk.css",
-    "static/js/main.b14d629b.chunk.js"
+    "static/js/2.df99fc4b.chunk.js",
+    "static/css/main.4345ca67.chunk.css",
+    "static/js/main.5397d317.chunk.js"
   ]
 }
