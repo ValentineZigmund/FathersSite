@@ -19,11 +19,11 @@ const tileData = [{
         title: 'Михаил Иванов',
         author: 'MikhailIvaniv',
     },
-    {
-        img: RuslanMagomedov,
-        title: 'Расул Магомедов',
-        author: 'RuslanMagomedov',
-    },
+    // {
+    //     img: RuslanMagomedov,
+    //     title: 'Расул Магомедов',
+    //     author: 'RuslanMagomedov',
+    // },
     {
         img: VasilyPeskov,
         title: 'Василий Песков',

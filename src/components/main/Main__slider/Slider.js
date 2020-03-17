@@ -8,7 +8,7 @@ import './slider.scss';
 export default function Slider() {
   const matches = useMediaQuery('(min-width:576px)');
   return (
-    <div className='slider'>
+    <div className='slider' id='anchor'>
     {matches === true ? <Images /> : 
     <Carousel>
       <Carousel.Item>

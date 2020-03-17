@@ -8,6 +8,7 @@ import Divider from "@material-ui/core/Divider";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import MenuIcon from '@material-ui/icons/Menu';
+import { Link } from "react-scroll";
 
 const useStyles = makeStyles({
   list: {
@@ -47,11 +48,8 @@ export default function TemporaryDrawer() {
     >
       <List>
         {[
-          { name: "Бразильское джиу-джитсу", href: "/brazil-jiu-jitsu" },
-          { name: "Бокс", href: "/boxing" },
-          { name: "MMA", href: "/mma" },
-          { name: "Тайский бокс", href: "/muay-thai" },
-          { name: "Грэпплинг", href: "/grappling" }
+          { name: "О клубе", href: "/home" },
+          { name: "Контакты", href: "/contacts" }
         ].map(text => (
           <ListItem button key={text.name}>
             <NavLink to={text.href} exact={false}>
@@ -59,6 +57,19 @@ export default function TemporaryDrawer() {
             </NavLink>
           </ListItem>
         ))}
+        {[
+          { name: "Цены", href: "https://vk.com/market-156067851" },
+          { name: "Магазин", href: "https://vk.com/market-156067851" },
+          { name: "расписание", href: "https://sun9-14.userapi.com/c855020/v855020336/1dd46e/OKy-b6lF06I.jpg" },
+        ].map(text => (
+          <ListItem button key={text.name}>
+            <a href={text.href}>
+              <ListItemText primary={text.name} />
+            </a>
+          </ListItem>
+        ))}
+
+
       </List>
       <Divider />
       <List>

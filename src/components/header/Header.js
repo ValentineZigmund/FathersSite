@@ -2,6 +2,7 @@ import React from "react";
 import Drawer from "../navigation/Drawer/Drawer";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
 import { Link } from "react-scroll";
+import { NavLink } from "react-router-dom";
 
 export default function Header() {
   const matches = useMediaQuery("(min-width:576px)");
@@ -35,7 +36,7 @@ export default function Header() {
             </div>
           </header>
           <header className="main-header main-header_web">
-            <Link to="faq" smooth={true} duration={400}>
+            <Link to="logo" smooth={true} duration={400}>
               <button className="header-button">О клубе</button>
             </Link>
             <Link to="slider" offset={-150} smooth={true} duration={500}>
@@ -44,15 +45,15 @@ export default function Header() {
             <Link to="MainTimeTable" smooth={true} duration={400}>
               <button className="header-button">Рассписание</button>
             </Link>
-            <Link>
+            <a href={"https://vk.com/market-156067851"}>
               <button className="header-button">Цены</button>
-            </Link>
-            <Link>
+            </a>
+            <a href={"https://vk.com/market-156067851"}>
               <button className="header-button">Магазин</button>
-            </Link>
-            <Link>
+            </a>
+            <NavLink to="/contacts" exact={false}>
               <button className="header-button">Контакты</button>
-            </Link>
+            </NavLink>
           </header>
         </div>
       ) : (

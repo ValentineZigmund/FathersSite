@@ -14,6 +14,7 @@ import MuayThai from "./containers/MuayThai/MuayThai";
 import HallRental from "./containers/HallRental/HallRental";
 import IndividualTrainings from "./containers/IndividualTrainings/IndividualTrainings";
 import TimeTable from "./containers/TimeTable/TimeTable";
+import Contacts from "./containers/Contacts/Contacts"
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
         <Route path="/hall-rental" component={HallRental} />
         <Route path="/individual-trainings" component={IndividualTrainings} />
         <Route path="/time-table" component={TimeTable} />
+        <Route path="/contacts" component={Contacts} />
       </Switch>
 
   );

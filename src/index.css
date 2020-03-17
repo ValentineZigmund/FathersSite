@@ -1,11 +1,14 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+}
+  
+
+* {
+  font-family: 'Furore', arial;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
@@ -55,11 +58,6 @@ element {
   /* правила для кнопки в шапке сайта */
   color: lightgray;
   margin: 38px 10px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 .header-button:hover {
   color: white;
@@ -103,8 +101,8 @@ element {
 }
 
 .icone {
-  height: 30px;
-  width: 30px;
+  min-height: 30px;
+  min-width: 30px;
   background-repeat: no-repeat;
 }
 @media (max-width: 575px) {
@@ -123,8 +121,8 @@ element {
 .icone_time {
   mask-image: url(./images/icones/time.svg);
   background-color: white;
-  width: 24px;
-  height: 24px;
+  min-width: 24px;
+  min-height: 24px;
   margin-right: 10px;
   margin-left: 10px;
 }
@@ -132,7 +130,7 @@ element {
 .icone_location {
   mask-image: url(./images/icones/map-marker-alt-solid.svg);
   background-color: white;
-  width: 23px;
+  min-width: 23px;
   margin-right: 10px;
   margin-left: 10px;
 }
@@ -168,13 +166,12 @@ element {
 .logo {
   height: 330px;
   width: 300px;
-  margin: 0 auto;
+  align-self: center;
 }
 @media (max-width: 765px) {
   .logo {
     height: 220px;
     width: 200px;
-    margin-left: calc(50% - 116px);
   }
 }
 /* @media (orientation:landscape) {
@@ -248,23 +245,67 @@ h1 {
 
 .faq {
   background-color: #313131;
-  padding: 0px 40px 0px 40px;
-  height: 100vh;
+  padding: 0px 40px 0px 0px;
+  height: 60vh;
+  display: flex;
 }
 
 .faq__content {
   background-color: #fcba00;
   height: 100%;
-  width: 100%;
-  padding: 20px 0px 0px 15px;
+  width: 50%;
+  padding: 20px 15px 0px 15px;
+  flex-shrink: 0;
+}
+
+.faq__title {
+  align-self: center;
+  margin: auto;
+  color: #fefefe;
+  margin-left: 40px;
+}
+
+.faq__subtitle {
+  padding-top: 40px;
+}
+
+.faq__content-mobile {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .faq__content {
+    background-color: #fcba00;
+    height: 100%;
+    width: 100%;
+    padding: 20px 10px 0px 10px;
+  }
+  .faq {
+    padding: 0px 40px 0px 40px;
+    height: 200vh;
+  }
+  .faq__content-mobile {
+    display: block;
+  }
+  .faq__subtitle {
+    display: none;
+  }
+  .faq__title {
+    display: none;
+  }
 }
 
 /* ===============================footer========================================= */
 
 .footer {
-  height: 15vh;
+  height: 10vh;
   width: 100%;
   background-color: gray;
+  display: flex;
+  justify-content: center;
+}
+.footer__title {
+  align-self: center;
 }
 
 /* ===============================MainNavButtons========================================= */
@@ -289,8 +330,8 @@ h1 {
 .btn {
   padding: 0;
   border: none;
-  font: inherit;
-  color: inherit;
+  /* font: inherit; */
+  /* color: inherit; */
   background-color: transparent;
   width: 240px;
   height: 48px;
@@ -300,6 +341,7 @@ h1 {
   align-items: center;
   text-decoration: none;
   background: linear-gradient(30deg, yellow, #fcba00);
+  font-size: 0.8rem !important;
 }
 
 .btn:hover {
@@ -367,6 +409,12 @@ h1 {
   padding-top: 20px;
 }
 
+@media (max-width: 576px) {
+  .trainersTitle {
+    height: 110px;
+  }
+}
+
 /* ===============================InfoWrapper========================================= */
 
 .infoWrapper {
@@ -374,15 +422,15 @@ h1 {
   padding: 40px 55px;
 }
 
-/* ===============================left-menue========================================= */
+/* ===============================left-menu========================================= */
 
 .MuiTypography-body1 {
   color: black;
 }
 
 .icone-menu {
-  height: 30px;
-  width: 30px;
+  min-height: 30px;
+  min-width: 30px;
   background-repeat: no-repeat;
   mask-image: url(./images/icones/iconfinder_menu-alt_134216.svg);
   background-color: #fefefe;
@@ -393,3 +441,5 @@ h1 {
   justify-content: center;
   margin-left: auto;
 }
+
+
