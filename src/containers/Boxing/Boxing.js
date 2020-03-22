@@ -4,7 +4,7 @@ import Header from "../../components/header/Header";
 function Boxing() {
   return (
     <div>
-      <Header />
+      <Header type={'secondary'}/>
       <div className="infoWrapper">
         <h2>Бокс</h2>
         <p>

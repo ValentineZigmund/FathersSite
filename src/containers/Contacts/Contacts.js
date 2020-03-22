@@ -4,7 +4,7 @@ import Header from "../../components/header/Header";
 function Contacts() {
   return (
     <div>
-      <Header />
+      <Header type={'secondary'}/>
       <div className="infoWrapper">
         <h2>Контактные данные</h2><br/>
             {/* <a className="phone" href="tel: +79221293111"> */}

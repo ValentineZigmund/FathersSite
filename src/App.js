@@ -10,7 +10,7 @@ import Boxing from "./containers/Boxing/Boxing";
 import Mma from "./containers/Mma/Mma";
 import Grappling from "./containers/Grappling/Grappling";
 import MuayThai from "./containers/MuayThai/MuayThai";
-
+import About from "./containers/About/About";
 import HallRental from "./containers/HallRental/HallRental";
 import IndividualTrainings from "./containers/IndividualTrainings/IndividualTrainings";
 import TimeTable from "./containers/TimeTable/TimeTable";
@@ -30,6 +30,7 @@ function App() {
         <Route path="/individual-trainings" component={IndividualTrainings} />
         <Route path="/time-table" component={TimeTable} />
         <Route path="/contacts" component={Contacts} />
+        <Route path="/about-us" component={About} />
       </Switch>
 
   );

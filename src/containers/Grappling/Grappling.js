@@ -4,7 +4,7 @@ import Header from "../../components/header/Header";
 function Grappling() {
   return (
     <div>
-      <Header />
+      <Header type={'secondary'}/>
       <div className="infoWrapper">
         <h2>Грепплинг</h2>
         <p>

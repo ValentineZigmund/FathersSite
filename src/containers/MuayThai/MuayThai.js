@@ -4,7 +4,7 @@ import Header from "../../components/header/Header";
 function MuayThai() {
   return (
     <div>
-      <Header />
+      <Header type={'secondary'}/>
       <div className="infoWrapper">
         <h2>Тайский бокс </h2>
         <p>

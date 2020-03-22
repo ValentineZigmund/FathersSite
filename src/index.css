@@ -1,13 +1,22 @@
 body {
   margin: 0;
 }
-  
+
+@font-face {
+  font-family: Font;
+  src: url('./fonts/Furore.woff2')
+         format('woff2'),
+       url('fonts/Furore.woff')
+         format('woff');
+}  
 
 * {
   font-family: 'Furore', arial;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+
 
 
 code {
@@ -168,7 +177,7 @@ element {
   width: 300px;
   align-self: center;
 }
-@media (max-width: 765px) {
+@media (max-width: 768px) {
   .logo {
     height: 220px;
     width: 200px;
@@ -192,7 +201,7 @@ element {
 
 .top-section {
   width: 100%;
-  height: calc(100vh - 100px);
+  height: 130vh;
   background-image: url(./images/karate-1343889_1920.jpg),
     linear-gradient(rgba(0, 0, 0, 0), #313131);
   background-blend-mode: multiply;
@@ -204,12 +213,12 @@ element {
   display: flex;
   flex-direction: column;
 }
-@media (max-width: 575px) {
+/* @media (max-width: 575px) {
   .top-section {
     padding-top: 80px;
-    height: calc(100vh - 80px);
+    height: 130vh;
   }
-}
+} */
 h1 {
   margin: 0px;
 }
@@ -223,7 +232,7 @@ h1 {
   }
   .top-section {
     padding-top: 20px;
-    height: calc(100vh - 200px);
+    height: 100vh;
   }
 }
 
@@ -232,7 +241,7 @@ h1 {
     display: none;
   }
   .top-section {
-    height: calc(100vh - 200px);
+    height: 100vh;
   }
 }
 
@@ -246,7 +255,7 @@ h1 {
 .faq {
   background-color: #313131;
   padding: 0px 40px 0px 0px;
-  height: 60vh;
+  height: 530px;
   display: flex;
 }
 

@@ -4,7 +4,7 @@ import Header from "../../components/header/Header";
 function IndividualTrainings() {
   return (
     <div>
-      <Header />
+      <Header type={'secondary'}/>
       <div className="infoWrapper">
         <h2>Индивидуальные Тренировки</h2>
         <p>

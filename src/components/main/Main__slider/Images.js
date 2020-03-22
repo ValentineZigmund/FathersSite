@@ -39,7 +39,7 @@ export default function SingleLineGridList() {
       <GridList className={classes.gridList} cols={2}>
         {tileData.map(tile => (
           <GridListTile key={tile.img} rows={2}>
-            <img src={tile.img} alt={tile.title} className={'overflow-on-hover'}/>
+            <img src={tile.img} alt={tile.title} className={'overflow-on-hover'} />
             <GridListTileBar
               title={tile.title}
               classes={{

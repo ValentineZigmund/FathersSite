@@ -4,7 +4,7 @@ import Header from "../../components/header/Header";
 function BrazilJiuJitsu() {
   return (
     <div>
-      <Header />
+      <Header type={'secondary'}/>
       <div className="infoWrapper">
         <h2>Бразильское джиу джитсу</h2>
         <p>

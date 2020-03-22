@@ -4,7 +4,7 @@ import Header from "../../components/header/Header";
 function Mma() {
   return (
     <div>
-      <Header />
+      <Header type={'secondary'}/>
       <div className="infoWrapper">
         <h2>ММА</h2>
         <p>

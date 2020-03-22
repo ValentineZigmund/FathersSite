@@ -4,7 +4,7 @@ import Header from "../../components/header/Header";
 function Hallrental() {
   return (
     <div>
-      <Header />
+      <Header type={'secondary'}/>
       <div className="infoWrapper">
         <h2>Аренда зала</h2>
         <p>
