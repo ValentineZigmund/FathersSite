@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FathersSite/static/css/main.ae03822e.chunk.css",
+    "main.css": "/FathersSite/static/css/main.14d1559d.chunk.css",
     "main.js": "/FathersSite/static/js/main.cee94337.chunk.js",
     "main.js.map": "/FathersSite/static/js/main.cee94337.chunk.js.map",
     "runtime-main.js": "/FathersSite/static/js/runtime-main.76cbbc50.js",
@@ -9,15 +9,15 @@
     "static/js/2.520cfe7f.chunk.js": "/FathersSite/static/js/2.520cfe7f.chunk.js",
     "static/js/2.520cfe7f.chunk.js.map": "/FathersSite/static/js/2.520cfe7f.chunk.js.map",
     "index.html": "/FathersSite/index.html",
-    "precache-manifest.c9d6b7ac741bacf2873f7a76d7eae501.js": "/FathersSite/precache-manifest.c9d6b7ac741bacf2873f7a76d7eae501.js",
+    "precache-manifest.0635f88481c982e909c0aac316fc5770.js": "/FathersSite/precache-manifest.0635f88481c982e909c0aac316fc5770.js",
     "service-worker.js": "/FathersSite/service-worker.js",
     "static/css/2.d7ac162c.chunk.css.map": "/FathersSite/static/css/2.d7ac162c.chunk.css.map",
-    "static/css/main.ae03822e.chunk.css.map": "/FathersSite/static/css/main.ae03822e.chunk.css.map",
+    "static/css/main.14d1559d.chunk.css.map": "/FathersSite/static/css/main.14d1559d.chunk.css.map",
     "static/js/2.520cfe7f.chunk.js.LICENSE": "/FathersSite/static/js/2.520cfe7f.chunk.js.LICENSE",
     "static/media/AleksChernov.jpg": "/FathersSite/static/media/AleksChernov.14226958.jpg",
     "static/media/DmitriySolovyev.jpg": "/FathersSite/static/media/DmitriySolovyev.6f1f88d7.jpg",
-    "static/media/index.css": "/FathersSite/static/media/vk-brands.60e31664.svg",
     "static/media/MikhailIvaniv.jpg": "/FathersSite/static/media/MikhailIvaniv.d996e1ae.jpg",
+    "static/media/index.css": "/FathersSite/static/media/vk-brands.60e31664.svg",
     "static/media/RuslanMagomedov.jpg": "/FathersSite/static/media/RuslanMagomedov.a3e4333d.jpg",
     "static/media/VasilyPeskov.jpg": "/FathersSite/static/media/VasilyPeskov.d2b5b70f.jpg",
     "static/media/boxing.jpg": "/FathersSite/static/media/boxing.b21d8235.jpg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.76cbbc50.js",
     "static/css/2.d7ac162c.chunk.css",
     "static/js/2.520cfe7f.chunk.js",
-    "static/css/main.ae03822e.chunk.css",
+    "static/css/main.14d1559d.chunk.css",
     "static/js/main.cee94337.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7d39b2ff8ef114c387ef9ae22012300",
+    "revision": "d53c5d79d05160fa976d7c9a51689fe1",
     "url": "/FathersSite/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FathersSite/static/css/2.d7ac162c.chunk.css"
   },
   {
-    "revision": "04e701999da4bc0232fc",
-    "url": "/FathersSite/static/css/main.ae03822e.chunk.css"
+    "revision": "0f9ba82b03648a0363e3",
+    "url": "/FathersSite/static/css/main.14d1559d.chunk.css"
   },
   {
     "revision": "3c25fe7450a837321721",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FathersSite/static/js/2.520cfe7f.chunk.js.LICENSE"
   },
   {
-    "revision": "04e701999da4bc0232fc",
+    "revision": "0f9ba82b03648a0363e3",
     "url": "/FathersSite/static/js/main.cee94337.chunk.js"
   },
   {
@@ -34,14 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6f1f88d70b513bdc9be2dbbe0d4292ff",
     "url": "/FathersSite/static/media/DmitriySolovyev.6f1f88d7.jpg"
-  },
-  {
-    "revision": "882ab8238c7299dedf08a95e3461105d",
-    "url": "/FathersSite/static/media/Furore.882ab823.woff2"
-  },
-  {
-    "revision": "f46a2360eeecd3c9c55472e8c6ef8aaa",
-    "url": "/FathersSite/static/media/Furore.f46a2360.woff"
   },
   {
     "revision": "d996e1aebb63254fb0daa8202084eee4",
@@ -62,6 +54,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b21d8235eefbd6d1c4b5cff09cb8cae2",
     "url": "/FathersSite/static/media/boxing.b21d8235.jpg"
+  },
+  {
+    "revision": "882ab8238c7299dedf08a95e3461105d",
+    "url": "/FathersSite/static/media/furore.882ab823.woff2"
+  },
+  {
+    "revision": "f46a2360eeecd3c9c55472e8c6ef8aaa",
+    "url": "/FathersSite/static/media/furore.f46a2360.woff"
   },
   {
     "revision": "27f8045680abfab5fcddf33dbfabe0c1",
