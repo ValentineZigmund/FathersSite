@@ -7,8 +7,7 @@ import List from "@material-ui/core/List";
 import Divider from "@material-ui/core/Divider";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
-import MenuIcon from '@material-ui/icons/Menu';
-import { Link } from "react-scroll";
+
 
 const useStyles = makeStyles({
   list: {
@@ -60,7 +59,7 @@ export default function TemporaryDrawer() {
         {[
           { name: "Цены", href: "https://vk.com/market-156067851" },
           { name: "Магазин", href: "https://vk.com/market-156067851" },
-          { name: "расписание", href: "https://sun9-14.userapi.com/c855020/v855020336/1dd46e/OKy-b6lF06I.jpg" },
+          { name: "Расписание", href: "https://sun9-14.userapi.com/c855020/v855020336/1dd46e/OKy-b6lF06I.jpg" },
         ].map(text => (
           <ListItem button key={text.name}>
             <a href={text.href}>
