@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FathersSite/static/css/main.14d1559d.chunk.css",
-    "main.js": "/FathersSite/static/js/main.cee94337.chunk.js",
-    "main.js.map": "/FathersSite/static/js/main.cee94337.chunk.js.map",
+    "main.js": "/FathersSite/static/js/main.9960f3cc.chunk.js",
+    "main.js.map": "/FathersSite/static/js/main.9960f3cc.chunk.js.map",
     "runtime-main.js": "/FathersSite/static/js/runtime-main.76cbbc50.js",
     "runtime-main.js.map": "/FathersSite/static/js/runtime-main.76cbbc50.js.map",
     "static/css/2.d7ac162c.chunk.css": "/FathersSite/static/css/2.d7ac162c.chunk.css",
     "static/js/2.520cfe7f.chunk.js": "/FathersSite/static/js/2.520cfe7f.chunk.js",
     "static/js/2.520cfe7f.chunk.js.map": "/FathersSite/static/js/2.520cfe7f.chunk.js.map",
     "index.html": "/FathersSite/index.html",
-    "precache-manifest.0635f88481c982e909c0aac316fc5770.js": "/FathersSite/precache-manifest.0635f88481c982e909c0aac316fc5770.js",
+    "precache-manifest.1d6ac2ee66b545c305980dd934585964.js": "/FathersSite/precache-manifest.1d6ac2ee66b545c305980dd934585964.js",
     "service-worker.js": "/FathersSite/service-worker.js",
     "static/css/2.d7ac162c.chunk.css.map": "/FathersSite/static/css/2.d7ac162c.chunk.css.map",
     "static/css/main.14d1559d.chunk.css.map": "/FathersSite/static/css/main.14d1559d.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.d7ac162c.chunk.css",
     "static/js/2.520cfe7f.chunk.js",
     "static/css/main.14d1559d.chunk.css",
-    "static/js/main.cee94337.chunk.js"
+    "static/js/main.9960f3cc.chunk.js"
   ]
 }
