@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4eedd0d19b5cd822f3e7d2b905e18a4e",
+    "revision": "d7d39b2ff8ef114c387ef9ae22012300",
     "url": "/FathersSite/index.html"
   },
   {
-    "revision": "3713a881429358cc417f",
+    "revision": "3c25fe7450a837321721",
     "url": "/FathersSite/static/css/2.d7ac162c.chunk.css"
   },
   {
-    "revision": "3e72cd69bd29816aa191",
-    "url": "/FathersSite/static/css/main.4345ca67.chunk.css"
+    "revision": "04e701999da4bc0232fc",
+    "url": "/FathersSite/static/css/main.ae03822e.chunk.css"
   },
   {
-    "revision": "3713a881429358cc417f",
-    "url": "/FathersSite/static/js/2.df99fc4b.chunk.js"
+    "revision": "3c25fe7450a837321721",
+    "url": "/FathersSite/static/js/2.520cfe7f.chunk.js"
   },
   {
     "revision": "c89a9bd9034eeb7490cd574fde290b7e",
-    "url": "/FathersSite/static/js/2.df99fc4b.chunk.js.LICENSE"
+    "url": "/FathersSite/static/js/2.520cfe7f.chunk.js.LICENSE"
   },
   {
-    "revision": "3e72cd69bd29816aa191",
-    "url": "/FathersSite/static/js/main.5397d317.chunk.js"
+    "revision": "04e701999da4bc0232fc",
+    "url": "/FathersSite/static/js/main.cee94337.chunk.js"
   },
   {
     "revision": "c7b977d75ba69669dfa7",
@@ -34,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6f1f88d70b513bdc9be2dbbe0d4292ff",
     "url": "/FathersSite/static/media/DmitriySolovyev.6f1f88d7.jpg"
+  },
+  {
+    "revision": "882ab8238c7299dedf08a95e3461105d",
+    "url": "/FathersSite/static/media/Furore.882ab823.woff2"
+  },
+  {
+    "revision": "f46a2360eeecd3c9c55472e8c6ef8aaa",
+    "url": "/FathersSite/static/media/Furore.f46a2360.woff"
   },
   {
     "revision": "d996e1aebb63254fb0daa8202084eee4",
@@ -50,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d2b5b70f73f1b9eb8ba5e6c48bd20796",
     "url": "/FathersSite/static/media/VasilyPeskov.d2b5b70f.jpg"
-  },
-  {
-    "revision": "58bdc65f4ff28f895e176ff945cdf91f",
-    "url": "/FathersSite/static/media/bely.58bdc65f.png"
   },
   {
     "revision": "b21d8235eefbd6d1c4b5cff09cb8cae2",
@@ -90,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "716d8d96f1ddd9615ea4565f8d844583",
     "url": "/FathersSite/static/media/mma.716d8d96.jpg"
+  },
+  {
+    "revision": "b47de09b658c33f39a2e492fe4159516",
+    "url": "/FathersSite/static/media/oranzhevy.b47de09b.png"
   },
   {
     "revision": "bacc2d0a2820b3626f60e35deada6d0c",

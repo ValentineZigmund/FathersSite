@@ -1,37 +1,37 @@
 {
   "files": {
-    "main.css": "/FathersSite/static/css/main.4345ca67.chunk.css",
-    "main.js": "/FathersSite/static/js/main.5397d317.chunk.js",
-    "main.js.map": "/FathersSite/static/js/main.5397d317.chunk.js.map",
+    "main.css": "/FathersSite/static/css/main.ae03822e.chunk.css",
+    "main.js": "/FathersSite/static/js/main.cee94337.chunk.js",
+    "main.js.map": "/FathersSite/static/js/main.cee94337.chunk.js.map",
     "runtime-main.js": "/FathersSite/static/js/runtime-main.76cbbc50.js",
     "runtime-main.js.map": "/FathersSite/static/js/runtime-main.76cbbc50.js.map",
     "static/css/2.d7ac162c.chunk.css": "/FathersSite/static/css/2.d7ac162c.chunk.css",
-    "static/js/2.df99fc4b.chunk.js": "/FathersSite/static/js/2.df99fc4b.chunk.js",
-    "static/js/2.df99fc4b.chunk.js.map": "/FathersSite/static/js/2.df99fc4b.chunk.js.map",
+    "static/js/2.520cfe7f.chunk.js": "/FathersSite/static/js/2.520cfe7f.chunk.js",
+    "static/js/2.520cfe7f.chunk.js.map": "/FathersSite/static/js/2.520cfe7f.chunk.js.map",
     "index.html": "/FathersSite/index.html",
-    "precache-manifest.a026c8a14b86268bd559b9e7bd1ce4e4.js": "/FathersSite/precache-manifest.a026c8a14b86268bd559b9e7bd1ce4e4.js",
+    "precache-manifest.c9d6b7ac741bacf2873f7a76d7eae501.js": "/FathersSite/precache-manifest.c9d6b7ac741bacf2873f7a76d7eae501.js",
     "service-worker.js": "/FathersSite/service-worker.js",
     "static/css/2.d7ac162c.chunk.css.map": "/FathersSite/static/css/2.d7ac162c.chunk.css.map",
-    "static/css/main.4345ca67.chunk.css.map": "/FathersSite/static/css/main.4345ca67.chunk.css.map",
-    "static/js/2.df99fc4b.chunk.js.LICENSE": "/FathersSite/static/js/2.df99fc4b.chunk.js.LICENSE",
+    "static/css/main.ae03822e.chunk.css.map": "/FathersSite/static/css/main.ae03822e.chunk.css.map",
+    "static/js/2.520cfe7f.chunk.js.LICENSE": "/FathersSite/static/js/2.520cfe7f.chunk.js.LICENSE",
     "static/media/AleksChernov.jpg": "/FathersSite/static/media/AleksChernov.14226958.jpg",
     "static/media/DmitriySolovyev.jpg": "/FathersSite/static/media/DmitriySolovyev.6f1f88d7.jpg",
-    "static/media/MikhailIvaniv.jpg": "/FathersSite/static/media/MikhailIvaniv.d996e1ae.jpg",
     "static/media/index.css": "/FathersSite/static/media/vk-brands.60e31664.svg",
+    "static/media/MikhailIvaniv.jpg": "/FathersSite/static/media/MikhailIvaniv.d996e1ae.jpg",
     "static/media/RuslanMagomedov.jpg": "/FathersSite/static/media/RuslanMagomedov.a3e4333d.jpg",
     "static/media/VasilyPeskov.jpg": "/FathersSite/static/media/VasilyPeskov.d2b5b70f.jpg",
-    "static/media/bely.png": "/FathersSite/static/media/bely.58bdc65f.png",
     "static/media/boxing.jpg": "/FathersSite/static/media/boxing.b21d8235.jpg",
     "static/media/grappling.jpg": "/FathersSite/static/media/grappling.27f80456.jpg",
     "static/media/jiujitsu.jpg": "/FathersSite/static/media/jiujitsu.d20a8d5f.jpg",
     "static/media/mauthai.jpg": "/FathersSite/static/media/mauthai.ad5fb854.jpg",
-    "static/media/mma.jpg": "/FathersSite/static/media/mma.716d8d96.jpg"
+    "static/media/mma.jpg": "/FathersSite/static/media/mma.716d8d96.jpg",
+    "static/media/oranzhevy.png": "/FathersSite/static/media/oranzhevy.b47de09b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76cbbc50.js",
     "static/css/2.d7ac162c.chunk.css",
-    "static/js/2.df99fc4b.chunk.js",
-    "static/css/main.4345ca67.chunk.css",
-    "static/js/main.5397d317.chunk.js"
+    "static/js/2.520cfe7f.chunk.js",
+    "static/css/main.ae03822e.chunk.css",
+    "static/js/main.cee94337.chunk.js"
   ]
 }
