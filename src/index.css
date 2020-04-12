@@ -430,6 +430,23 @@ h1 {
   width: 100%;
   padding: 40px 55px;
 }
+.trener-block {
+  display: flex;
+  margin: 70px;
+}
+.trener-block__img {
+  width: 400px;
+  height: 450px;
+  margin-right: 100px;
+}
+.trener-block__img {
+
+}
+.timetable {
+  margin-top: 50px;
+  text-align: center;
+}
+
 
 /* ===============================left-menu========================================= */
 

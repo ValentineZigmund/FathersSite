@@ -1,10 +1,29 @@
 import React from "react";
 import Header from "../../components/header/Header";
+import tileData from "../../components/main/MainTrainers/tileData";
 
 function MuayThai() {
   return (
     <div>
       <Header type={'secondary'}/>
+      <div className='timetable'><h2>здесь будет расписание занятий</h2></div>
+      <div className='trener-block'>
+        <img className='trener-block__img' src={tileData[2].img}></img>
+        <div classname='trener-block__info'>
+          <h3>Михаил Иванов</h3>
+          <h4>Тренер по Тайскому боксу</h4>
+          <div>
+            Профессиональный рекорд 11-1
+            Мастер спорта России по тайскому боксу.
+            Чемпион первенства России.
+            Многократный чемпион всероссийских соревнований.
+            Многократный победитель турниров Fair Fight.
+            Победитель профессионального турнира Адреналин.
+            Победитель турнира БОИ В КЛЕТКЕ RCC#2 по правилам древнего Муай тай.
+          </div>
+        </div>
+      </div>
+      <div className='timetable'><h4>здесь будут цены</h4></div>
       <div className="infoWrapper">
         <h2>Тайский бокс </h2>
         <p>

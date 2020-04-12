@@ -1,10 +1,28 @@
 import React from "react";
 import Header from "../../components/header/Header";
+import tileData from "../../components/main/MainTrainers/tileData";
 
 function Grappling() {
   return (
     <div>
       <Header type={'secondary'}/>
+      <div className='timetable'><h2>здесь будет расписание занятий</h2></div>
+      <div className='trener-block'>
+        <img className='trener-block__img' src={tileData[3].img}></img>
+        <div classname='trener-block__info'>
+          <h3>Василий Песков</h3>
+          <h4>Тренер по Боксу</h4>
+          <div>
+            Менеджер по профессиональному боксу.
+            Член сборной Свердловской области 2007 года.
+            Призёр Свердловской области по боксу.
+            Победитель различных турниров в городах Екатеринбург, 
+            Верхняя Пышма, Березовский, Магнитогорск, Полевской. 
+            Участник первенства Уральского федерального округа в составе сборной Свердловской области.
+          </div>
+        </div>
+      </div>
+      <div className='timetable'><h4>здесь будут цены</h4></div>
       <div className="infoWrapper">
         <h2>Грепплинг</h2>
         <p>

@@ -1,8 +1,8 @@
-import boxing from '../../../images/boxing.jpg';
-import jiujitsu from '../../../images/jiujitsu.jpg';
-import mma from '../../../images/mma.jpg';
-import mauthai from '../../../images/mauthai.jpg';
-import grappling from '../../../images/grappling.jpg';
+import boxing from '../../../images/boxing.png';
+import jiujitsu from '../../../images/jiujitsu.png';
+import mma from '../../../images/mma.png';
+import mauthai from '../../../images/mauthai.png';
+import grappling from '../../../images/grappling.png';
 
 const tileData = [{
         img: jiujitsu,

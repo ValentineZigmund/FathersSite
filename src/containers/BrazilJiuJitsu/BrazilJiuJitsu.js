@@ -1,10 +1,29 @@
 import React from "react";
 import Header from "../../components/header/Header";
+import tileData from "../../components/main/MainTrainers/tileData";
 
 function BrazilJiuJitsu() {
   return (
     <div>
       <Header type={'secondary'}/>
+      <div className='timetable'><h2>здесь будет расписание занятий</h2></div>
+      <div className='trener-block'>
+        <img className='trener-block__img' src={tileData[1].img}></img>
+        <div classname='trener-block__info'>
+          <h3>Дмитрий Соловьев</h3>
+          <h4>Тренер по Бразильскому джиу-джитсу</h4>
+          <div>
+          Черный пояс по бразильскому джиу-джитсу (от Браулио Эстима)
+          КМС по грэпплингу UWW
+          Серебряный призёр открытого Чемпионата Европы в синих и коричневых поясах
+          Бронзовый призёр открытого чемпионата России
+          Многократный чемпион всероссийского турнира Золотой тигр
+          Чемпион Кубка Урала по грэпплингу ADCC
+          Состоит в сборной области по грэпплингу
+          </div>
+        </div>
+      </div>
+      <div className='timetable'><h4>здесь будут цены</h4></div>
       <div className="infoWrapper">
         <h2>Бразильское джиу джитсу</h2>
         <p>

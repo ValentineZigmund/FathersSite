@@ -15,7 +15,7 @@ export default function Slider() {
         <NavLink to={"/brazil-jiu-jitsu"} exact={false}>
           <img
             className="d-block w-100 transition-on-hover"
-            src={require("../../../images/jiujitsu.jpg")}
+            src={require("../../../images/jiujitsu.png")}
             alt="Бразильское джиу-джитсу"
           />
         </NavLink>
@@ -27,7 +27,7 @@ export default function Slider() {
         <NavLink to={"/boxing"} exact={false}>
           <img
             className="d-block w-100 transition-on-hover"
-            src={require("../../../images/boxing.jpg")}
+            src={require("../../../images/boxing.png")}
             alt="Third slide"
           />
         </NavLink>
@@ -39,7 +39,7 @@ export default function Slider() {
         <NavLink to={"/mma"} exact={false}>
           <img
             className="d-block w-100 transition-on-hover"
-            src={require("../../../images/mma.jpg")}
+            src={require("../../../images/mma.png")}
             alt="Third slide"
           />
         </NavLink>
@@ -51,7 +51,7 @@ export default function Slider() {
         <NavLink to={"/muay-thai"} exact={false}>
           <img
             className="d-block w-100 transition-on-hover"
-            src={require("../../../images/grappling.jpg")}
+            src={require("../../../images/grappling.png")}
             alt="Third slide"
           />
         </NavLink>
@@ -63,7 +63,7 @@ export default function Slider() {
         <NavLink to={"/grappling"} exact={false}>
           <img
             className="d-block w-100 transition-on-hover"
-            src={require("../../../images/mauthai.jpg")}
+            src={require("../../../images/mauthai.png")}
             alt="Third slide"
           />
         </NavLink>

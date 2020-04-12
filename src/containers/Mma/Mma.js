@@ -1,10 +1,25 @@
 import React from "react";
 import Header from "../../components/header/Header";
+import tileData from "../../components/main/MainTrainers/tileData";
 
 function Mma() {
   return (
     <div>
       <Header type={'secondary'}/>
+      <div className='timetable'><h2>здесь будет расписание занятий</h2></div>
+      <div className='trener-block'>
+        <img className='trener-block__img' src={tileData[0].img}></img>
+        <div classname='trener-block__info'>
+          <h3>Александр Чернов</h3>
+          <h4>Тренер по ММА</h4>
+          <div>
+            Чемпион РК по боевому самбо 2014г
+            Чемпион Карагандинской области по рукапашному бою 2017г
+            Чемпион Карагандинской области по грепплингу 2016г
+          </div>
+        </div>
+      </div>
+      <div className='timetable'><h4>здесь будут цены</h4></div>
       <div className="infoWrapper">
         <h2>ММА</h2>
         <p>
