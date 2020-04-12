@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ceb1f0c72aed9d6353e186ff5e9bc00",
+    "revision": "43d213ce2ac49f35b19bee0d30e7e4af",
     "url": "/FathersSite/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FathersSite/static/css/2.d7ac162c.chunk.css"
   },
   {
-    "revision": "9dd29727988fc4b2a53c",
-    "url": "/FathersSite/static/css/main.c11491e2.chunk.css"
+    "revision": "fff9a5ec94a9f0ece17e",
+    "url": "/FathersSite/static/css/main.5b347dec.chunk.css"
   },
   {
     "revision": "1938ab106ab94fe0699b",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FathersSite/static/js/2.ce68f911.chunk.js.LICENSE"
   },
   {
-    "revision": "9dd29727988fc4b2a53c",
-    "url": "/FathersSite/static/js/main.ed5cce4e.chunk.js"
+    "revision": "fff9a5ec94a9f0ece17e",
+    "url": "/FathersSite/static/js/main.5ca7ed72.chunk.js"
   },
   {
     "revision": "c7b977d75ba69669dfa7",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FathersSite/static/media/VasilyPeskov.d2b5b70f.jpg"
   },
   {
-    "revision": "b21d8235eefbd6d1c4b5cff09cb8cae2",
-    "url": "/FathersSite/static/media/boxing.b21d8235.jpg"
+    "revision": "f2d1e66bd493004100853555d3e105a8",
+    "url": "/FathersSite/static/media/boxing.f2d1e66b.png"
   },
   {
     "revision": "882ab8238c7299dedf08a95e3461105d",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FathersSite/static/media/furore.f46a2360.woff"
   },
   {
-    "revision": "27f8045680abfab5fcddf33dbfabe0c1",
-    "url": "/FathersSite/static/media/grappling.27f80456.jpg"
+    "revision": "a4f57e979d5f1ef3df12ee38049e4e8c",
+    "url": "/FathersSite/static/media/grappling.a4f57e97.png"
   },
   {
     "revision": "8659515094d85059439811bbedcbbc39",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FathersSite/static/media/inst.67f4c48f.svg"
   },
   {
-    "revision": "d20a8d5fba802187ee23a21363f89d2e",
-    "url": "/FathersSite/static/media/jiujitsu.d20a8d5f.jpg"
+    "revision": "516df3ebb773e1944430df81e96899f8",
+    "url": "/FathersSite/static/media/jiujitsu.516df3eb.png"
   },
   {
     "revision": "9aea9f480e9a0d225a1e9616ec12c515",
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FathersSite/static/media/map-marker-alt-solid.2b7c48a7.svg"
   },
   {
-    "revision": "ad5fb85475ff7480a30657bfb35f0fc6",
-    "url": "/FathersSite/static/media/mauthai.ad5fb854.jpg"
+    "revision": "f8661862c55ed199593cc4c6bac550ee",
+    "url": "/FathersSite/static/media/mauthai.f8661862.png"
   },
   {
-    "revision": "716d8d96f1ddd9615ea4565f8d844583",
-    "url": "/FathersSite/static/media/mma.716d8d96.jpg"
+    "revision": "d248bbc16eb64c864e806d24517f6e05",
+    "url": "/FathersSite/static/media/mma.d248bbc1.png"
   },
   {
     "revision": "b47de09b658c33f39a2e492fe4159516",
